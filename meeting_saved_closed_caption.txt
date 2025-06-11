@@ -1,0 +1,549 @@
+[Harisudhan Ramasamy Senguttuvan] 22:30:46
+Hi, bro. I recommend on Prime.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:30:48
+Hi, Hari. Hi, Brave.
+
+[CHRISTU PREM CHAND NEELA] 22:30:49
+Hi, Harry. Hi, everyone.
+
+[Harisudhan Ramasamy Senguttuvan] 22:30:53
+Today, let's talk about our project. Any updates on that?
+
+[CHRISTU PREM CHAND NEELA] 22:30:58
+So, I think we are good with the discussion, like, we have updated, like, previously.
+
+[CHRISTU PREM CHAND NEELA] 22:31:05
+We just went like we are going to do the telecom project for the Fabertech.
+
+[CHRISTU PREM CHAND NEELA] 22:31:10
+So, uh, as we know, Fibatic is the startup company. We are, like, uh… We, for the expansion of the company, we just, uh, give them an idea.
+
+[CHRISTU PREM CHAND NEELA] 22:31:23
+Uh, for the… new project, uh, so that, uh, the company can… expand itself. So, we are servicing a telecom project.
+
+[CHRISTU PREM CHAND NEELA] 22:31:36
+Uh… previously we discussed about the telecom project. But as a… as in this call, we are, like, uh… We are going a bit deeper in this.
+
+[CHRISTU PREM CHAND NEELA] 22:31:48
+Firstly, we are going to create a dashboard for the telecom panel. Uh, it's a fully, like, web-based, uh, user interface.
+
+[CHRISTU PREM CHAND NEELA] 22:31:59
+Dashboard. Uh, so… the features we are going to offer is, like, the user can see their… plan details, usage details, and uh… Uh, what… how much data they consumed.
+
+[CHRISTU PREM CHAND NEELA] 22:32:16
+Um, if they want to top up what are the plans?
+
+[CHRISTU PREM CHAND NEELA] 22:32:20
+And while top-up, they use their credit cards or UPIs. So… or if they want to delete any plans, or edit plans, any… these kind of things we'll be doing in this, uh… application… it's a web-based thing.
+
+[CHRISTU PREM CHAND NEELA] 22:32:38
+So, it's like user interface, like, uh, we use the web page, it's not an application.
+
+[CHRISTU PREM CHAND NEELA] 22:32:47
+And we have, like, uh… Database is, like, we can use… I hope one database is enough, like, it's a complete user info… user information.
+
+[CHRISTU PREM CHAND NEELA] 22:32:59
+So, I think one database is enough, uh… If I'm not wrong. So, you can test, uh, is one database is enough, or do we need to have one more?
+
+[Harisudhan Ramasamy Senguttuvan] 22:33:10
+Uh, we can use one more for the customers, bro.
+
+[CHRISTU PREM CHAND NEELA] 22:33:14
+Okay, so… it's like, what kind of, uh… Do you sell any additions or any corrections in this?
+
+[CHRISTU PREM CHAND NEELA] 22:33:24
+In the existing projects, like, um, apart from user details and plans.
+
+[CHRISTU PREM CHAND NEELA] 22:33:29
+So, are we going to offer any kind of things, login details, or any kind of things?
+
+[Harisudhan Ramasamy Senguttuvan] 22:33:35
+And that we can specifically implement the two-step verification, uh, like.
+
+[Harisudhan Ramasamy Senguttuvan] 22:33:43
+Like, uh… What's your favorite color? What's your… favorite animals, like, the simple manner.
+
+[CHRISTU PREM CHAND NEELA] 22:33:53
+Okay.
+
+[Harisudhan Ramasamy Senguttuvan] 22:33:55
+Um…
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:33:56
+And the innovative one is what we have to newly implement in this project, like, real-time network status.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:34:04
+Like, uh, it's connected with, uh, we have to track their network with the signal and the network.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:34:10
+How their signal is… good or not. And every time.
+
+[CHRISTU PREM CHAND NEELA] 22:34:14
+Okay, it's like 4G, 5G band, whichever we have… whichever the system is providing.
+
+[Harisudhan Ramasamy Senguttuvan] 22:34:16
+Uh. I think you're talking about the strength of the network.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:34:17
+Yeah, yeah. And we give… we give some admin control to plan.
+
+[CHRISTU PREM CHAND NEELA] 22:34:19
+So we are going to try to.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:34:27
+Dashboard to the users every time they see their control things on the panel.
+
+[CHRISTU PREM CHAND NEELA] 22:34:35
+Okay.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:34:36
+And these things are very helpful to the users. And we have to support the multilingual thing also.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:34:43
+Most of the telecoms are, uh. Using that kind of things. In… We are a very small… Telecom-based company, right? So, we have to implement that only.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:34:56
+In a very simple manner.
+
+[CHRISTU PREM CHAND NEELA] 22:34:58
+Okay.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:35:00
+And the challenges, or…
+
+[CHRISTU PREM CHAND NEELA] 22:35:04
+So, which, uh… No, for the front-end and back-end, which language we are going to use?
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:35:05
+We have to connect the authentication? Yes. Connected between the front end and back-end.
+
+[CHRISTU PREM CHAND NEELA] 22:35:14
+I mean, which technologies is like, uh… JavaScript, Python… Or anything.
+
+[Harisudhan Ramasamy Senguttuvan] 22:35:21
+Yeah, can you use a Python JavaScript? For this.
+
+[CHRISTU PREM CHAND NEELA] 22:35:26
+And probably for, uh, developing the webpage, uh, if I'm not wrong, we need to have HTML and CSS.
+
+[CHRISTU PREM CHAND NEELA] 22:35:32
+So that we can do padding on the creation of web page.
+
+[CHRISTU PREM CHAND NEELA] 22:35:38
+And the logos, logo creation, and uh… alignments, so that I think HTML and CSS also is required for this, right?
+
+[Harisudhan Ramasamy Senguttuvan] 22:35:47
+Reconnaissance over one. If it required, we can definitely use this.
+
+[CHRISTU PREM CHAND NEELA] 22:35:51
+I think it's required, because we are going with the web page, right?
+
+[CHRISTU PREM CHAND NEELA] 22:35:55
+So, for the web page, uh, HTML and CSS is required to do it, so… We'll be using HTML and CSS for the layouts and stylings.
+
+[Harisudhan Ramasamy Senguttuvan] 22:35:56
+Cio.
+
+[CHRISTU PREM CHAND NEELA] 22:36:05
+And, uh, what would be the sprint and… So, which, uh, when we are going to use for the front end?
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:36:25
+What?
+
+[CHRISTU PREM CHAND NEELA] 22:36:26
+So…
+
+[Harisudhan Ramasamy Senguttuvan] 22:36:26
+We can use a JavaScript as a front-end.
+
+[CHRISTU PREM CHAND NEELA] 22:36:30
+Okay, and it's like, uh… What kind of things it is going to handle.
+
+[Harisudhan Ramasamy Senguttuvan] 22:36:40
+And tables and… filtering models…
+
+[CHRISTU PREM CHAND NEELA] 22:36:45
+Okay, basically, it's like, uh, when the user is searching with the data.
+
+[CHRISTU PREM CHAND NEELA] 22:36:50
+So, uh, we are going to filter the data from the databases, and we are going to provide the particular user data, right?
+
+[Harisudhan Ramasamy Senguttuvan] 22:36:58
+Yeah. Yeah, yeah, yeah.
+
+[CHRISTU PREM CHAND NEELA] 22:36:58
+So for these kind of things, we'll be using JavaScript.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:37:01
+Yeah, JavaScript is your perfect for this one.
+
+[CHRISTU PREM CHAND NEELA] 22:37:04
+Okay, so we thought of Python, right? So… what is the use of Python in this?
+
+[CHRISTU PREM CHAND NEELA] 22:37:11
+So, probably we are covering all the time.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:37:12
+Actually, the Python is useful for the backend programming on the site.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:37:16
+So… So, we have to use Python as a backup, like.
+
+[CHRISTU PREM CHAND NEELA] 22:37:17
+Okay.
+
+[CHRISTU PREM CHAND NEELA] 22:37:23
+So, what about the payments? So, if the user want to add or… at the… any… pack anything, like, plans or anything. If you want to upgrade the plans.
+
+[CHRISTU PREM CHAND NEELA] 22:37:34
+So, probably they need to… who pay the money for it.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:37:40
+Yeah, yeah.
+
+[CHRISTU PREM CHAND NEELA] 22:37:40
+So, through using which database… I mean, which language we can develop that kind of cardio PIs or anything?
+
+[CHRISTU PREM CHAND NEELA] 22:37:53
+It's like Java only, right? Or anything else? So we can include everything.
+
+[Harisudhan Ramasamy Senguttuvan] 22:37:56
+Yeah.
+
+[CHRISTU PREM CHAND NEELA] 22:38:01
+Okay.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:38:13
+Yeah, JavaScript is a very secure one for the payment using.
+
+[CHRISTU PREM CHAND NEELA] 22:38:18
+Okay.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:38:20
+Well, we have to give an AAB request to payment providers, and then storing the transaction details also.
+
+[CHRISTU PREM CHAND NEELA] 22:38:26
+Okay.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:38:27
+And the reput…
+
+[Harisudhan Ramasamy Senguttuvan] 22:38:28
+Bro, how can we import the payment methods? Credit card, debit card, UPA.
+
+[CHRISTU PREM CHAND NEELA] 22:38:37
+So, the user needs to add their card details and do the payment.
+
+[Harisudhan Ramasamy Senguttuvan] 22:38:43
+Okay?
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:38:44
+Anything?
+
+[CHRISTU PREM CHAND NEELA] 22:38:48
+Okay, so what's our main motive for the dashboard? What would be the main dashboard?
+
+[CHRISTU PREM CHAND NEELA] 22:38:54
+So, what kind of things it is? Holdings, like…
+
+[Harisudhan Ramasamy Senguttuvan] 22:38:59
+Bro, it's already existing project, but in that specifically, we need to… Implement any… at the front end, uh… And then we do it just could differ from the other projects.
+
+[Harisudhan Ramasamy Senguttuvan] 22:39:13
+Soon we can… Take a look on that.
+
+[CHRISTU PREM CHAND NEELA] 22:39:19
+Okay. So, uh, how we are going to design our dashboard?
+
+[CHRISTU PREM CHAND NEELA] 22:39:23
+So, what we are going to have the main modules for the dashboard?
+
+[Harisudhan Ramasamy Senguttuvan] 22:39:30
+Um…
+
+[Harisudhan Ramasamy Senguttuvan] 22:39:37
+I like the Act 2 plants and total data, home… total datas, and how… how the… how much the data consumes certify the customer.
+
+[CHRISTU PREM CHAND NEELA] 22:39:46
+Okay. So, I have one doubt. So, we are going to create the… web page for the… users, or for the company, it's like, for the telecom company.
+
+[CHRISTU PREM CHAND NEELA] 22:40:01
+So, if they want to check the databases, like, uh… how much… Uh, the user is using.
+
+[CHRISTU PREM CHAND NEELA] 22:40:09
+So, what is the plan there is, we are going to build in that way, or we are going for the user interface?
+
+[Harisudhan Ramasamy Senguttuvan] 22:40:20
+I think she's a user interface. Whatever.
+
+[CHRISTU PREM CHAND NEELA] 22:40:20
+And did you get maybe… So… For the customer interface.
+
+[CHRISTU PREM CHAND NEELA] 22:40:26
+A customer or user interface, or for the telecom. It's like, if the telecom company wants to check the data.
+
+[CHRISTU PREM CHAND NEELA] 22:40:33
+We are going with that…
+
+[Harisudhan Ramasamy Senguttuvan] 22:40:36
+There are two options. You can use any one of them.
+
+[Harisudhan Ramasamy Senguttuvan] 22:40:40
+I love that. Customer interface, or company interface?
+
+[CHRISTU PREM CHAND NEELA] 22:40:47
+Okay.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:40:48
+In dashboard ways, we have to use two dashboards. Use the dashboard and admin dashboard, right?
+
+[CHRISTU PREM CHAND NEELA] 22:40:55
+I think one dashboard would be fine enough, right?
+
+[Harisudhan Ramasamy Senguttuvan] 22:41:00
+Okay, bro, we can, uh, create a one interface for both, uh… for both the customer and the… company.
+
+[CHRISTU PREM CHAND NEELA] 22:41:08
+We can't do it, because if the company wants to check… to all the data, uh, then how can it… We do it.
+
+[Harisudhan Ramasamy Senguttuvan] 22:41:17
+Later, we tend to talk about this.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:41:18
+If you have two dashboards, in the admin dashboard, we have two lists of our users and active transport plans we have to put in there.
+
+[CHRISTU PREM CHAND NEELA] 22:41:25
+Okay.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:41:26
+Dashboard under… and then… We have to add, edit, and delete the plans also.
+
+[CHRISTU PREM CHAND NEELA] 22:41:34
+Okay?
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:41:35
+And support this use. We have to inform that We have the options to… change our, uh, plans in any time. So that's why we are using Admin Dashboard.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:41:46
+User dashboard is common in every telecom app, like, uh… the data usage, network status.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:41:51
+And what they… what they're currently in the… which plan we are… they are currently using.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:41:57
+And renewable… when we have to renewable the land. Notifications, uh… Some of them giving their offers for their… plans. So, this is the use of dashboard.
+
+[CHRISTU PREM CHAND NEELA] 22:42:02
+Okay.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:42:11
+So, we have to use both things in our… project type. It's very… user-friendly for both of them.
+
+[CHRISTU PREM CHAND NEELA] 22:42:22
+So, we can develop this in, uh…
+
+[Harisudhan Ramasamy Senguttuvan] 22:42:30
+Since I don't have any idea in the pool. How it's… work?
+
+[CHRISTU PREM CHAND NEELA] 22:42:33
+Sorry?
+
+[Harisudhan Ramasamy Senguttuvan] 22:42:42
+I don't know how can we create this…
+
+[CHRISTU PREM CHAND NEELA] 22:42:45
+So we are going to use GitHub or Visual Studio Code.
+
+[Harisudhan Ramasamy Senguttuvan] 22:42:50
+There's a Research Studio course? For the…
+
+[Harisudhan Ramasamy Senguttuvan] 22:42:58
+First, we get it in the visuals, and we can upload in the GitHub.
+
+[CHRISTU PREM CHAND NEELA] 22:43:02
+Okay. So I think better we start with the web page creation.
+
+[CHRISTU PREM CHAND NEELA] 22:43:09
+So, as we segregate it, it's like, uh, we need the dashboard, main dashboard.
+
+[CHRISTU PREM CHAND NEELA] 22:43:16
+With the user details, uh…
+
+[Harisudhan Ramasamy Senguttuvan] 22:43:21
+Every upcoming week, we can… Please start first.
+
+[CHRISTU PREM CHAND NEELA] 22:43:27
+Uh, it's like we can have the company logo and dashboard is, like, user's details.
+
+[CHRISTU PREM CHAND NEELA] 22:43:34
+And he… probably, I think we are… we need to go with the telecom company.
+
+[CHRISTU PREM CHAND NEELA] 22:43:38
+So, we can add the user, we can delete the user, we can add the name of the user… I mean… phones and plans, and we can edit the details.
+
+[CHRISTU PREM CHAND NEELA] 22:43:49
+So, it's like, probably we are going with the telecom company.
+
+[CHRISTU PREM CHAND NEELA] 22:43:53
+Uh, we are giving the webpage for the telecom company, so the company can create the users.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:43:59
+Yeah.
+
+[CHRISTU PREM CHAND NEELA] 22:44:01
+So, it's like, whatever the phone they want to… I mean, phone number… I mean, contact number, or… Uh, we enter the region, so we check the plan details, validities.
+
+[CHRISTU PREM CHAND NEELA] 22:44:14
+So, once…
+
+[Harisudhan Ramasamy Senguttuvan] 22:44:15
+Yeah, bro, it starts like a bank… how the customers create the bank account, like.
+
+[Harisudhan Ramasamy Senguttuvan] 22:44:21
+Inputting their phone numbers and… And their name?
+
+[CHRISTU PREM CHAND NEELA] 22:44:21
+Yeah. Yeah, so we are creating the webpage for the telecom company.
+
+[CHRISTU PREM CHAND NEELA] 22:44:29
+So, it's like, uh, any company, any telecom company. So that they can add or edit or… uh, delete any kind of details related to user.
+
+[CHRISTU PREM CHAND NEELA] 22:44:44
+Uh, through using this webpage. So, I hope, uh, even login details are not required, so we further will check with that.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:44:47
+Yeah.
+
+[Harisudhan Ramasamy Senguttuvan] 22:44:47
+Um, but, uh…
+
+[CHRISTU PREM CHAND NEELA] 22:44:53
+So, if we need the login details, we need to have the one more dashboard, uh, the main login page.
+
+[CHRISTU PREM CHAND NEELA] 22:44:59
+So once the login page was done.
+
+[Harisudhan Ramasamy Senguttuvan] 22:45:01
+We need to create another database for the login purpose. Yeah.
+
+[CHRISTU PREM CHAND NEELA] 22:45:07
+Might be. So, better we go with the direct dashboard, uh, main page.
+
+[CHRISTU PREM CHAND NEELA] 22:45:13
+Um, so that it's like a… kind of Google Chrome, okay? So, when we open the Chrome, it'll be automatically directed to Google.
+
+[CHRISTU PREM CHAND NEELA] 22:45:21
+So in the same way, when the user clicks on this webpage.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:45:26
+Yeah, it's very, very helpful to the users, like. They are visiting their page… Uh… yeah.
+
+[CHRISTU PREM CHAND NEELA] 22:45:30
+Yeah, it's not for the user, it's for the telecom company. So, that'll be easy for the… and the database will be holding by them.
+
+[CHRISTU PREM CHAND NEELA] 22:45:39
+Are the software company, so… no issues with that. I hope so.
+
+[Harisudhan Ramasamy Senguttuvan] 22:45:43
+Bro, I think so… Uh, the telecom company is more convenient.
+
+[Harisudhan Ramasamy Senguttuvan] 22:45:50
+Unsuitable for the situations. The multiple hands of… addressing the process.
+
+[CHRISTU PREM CHAND NEELA] 22:45:52
+Yeah, and we'll see if required, we'll go with the launch package.
+
+[CHRISTU PREM CHAND NEELA] 22:45:58
+Yeah, if required, we'll go with the login page as well.
+
+[CHRISTU PREM CHAND NEELA] 22:46:05
+If required. Uh, I think it's better to have, because… It's like, uh, even that telecom company wants to save the data.
+
+[CHRISTU PREM CHAND NEELA] 22:46:13
+You don't want to… Uh, if we don't have any login details.
+
+[CHRISTU PREM CHAND NEELA] 22:46:19
+So, there might be… some issues, right?
+
+[CHRISTU PREM CHAND NEELA] 22:46:24
+So anyone can hack it easily. So, better we can have the login details
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:46:25
+Yeah. Yeah.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:46:31
+No, that's fine.
+
+[CHRISTU PREM CHAND NEELA] 22:46:36
+I think I'm good with this. So, do you have… do you have anything other?
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:46:43
+It's a perfect time. We have to finalize the…
+
+[CHRISTU PREM CHAND NEELA] 22:46:45
+Okay, I think, uh, can we… it's like, uh… Uh, we need to… summarize everything using chat. Any AI application.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:47:03
+For what… which purpose?
+
+[Harisudhan Ramasamy Senguttuvan] 22:47:05
+Reference, we can use to use this promo, no problem.
+
+[CHRISTU PREM CHAND NEELA] 22:47:11
+Just give me a minute. Is the transcript… Did anyone send the transcript?
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:47:20
+No, it's coming okay.
+
+[CHRISTU PREM CHAND NEELA] 22:47:20
+Please don't say no.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:47:26
+It's already in the transcript, right? The meeting is in my transcript.
+
+[CHRISTU PREM CHAND NEELA] 22:47:31
+No.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:47:34
+Right? You started it?
+
+[Harisudhan Ramasamy Senguttuvan] 22:47:36
+Bro, it's… it started with no problem.
+
+[CHRISTU PREM CHAND NEELA] 22:47:39
+Can you save it and send it to me?
+
+[Harisudhan Ramasamy Senguttuvan] 22:47:42
+Yeah, just imagine. Ctrl pluses…
+
+[CHRISTU PREM CHAND NEELA] 22:47:54
+I think you can share your screen and show the transcript, because I see only the transcript from the… One minute ago, that's the reason I was asking.
+
+[Harisudhan Ramasamy Senguttuvan] 22:48:04
+It's fully covered, bro.
+
+[CHRISTU PREM CHAND NEELA] 22:48:07
+Okay, better we stop the transcript.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:48:13
+Post another transcript.
+
+[Harisudhan Ramasamy Senguttuvan] 22:48:13
+I posted in the group, bro.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:48:19
+Who records it?
+
+[CHRISTU PREM CHAND NEELA] 22:48:22
+In which group?
+
+[Harisudhan Ramasamy Senguttuvan] 22:48:25
+What's up? Uh, no, bro. It's… it fully cannot be shown.
+
+[Harisudhan Ramasamy Senguttuvan] 22:48:29
+Just a minute.
+
+[SUNDARESA RAGAVAN SUNDARAM] 22:48:45
+It's a very solid thing.
+
